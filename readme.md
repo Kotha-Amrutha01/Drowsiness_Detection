@@ -113,11 +113,8 @@ pip install imutils
 
 ```
 Vigil-Eye/
-│
-├── assets/
-│   ├── hardware_setup.jpg
-│   └── hardware_demo.mp4
-│
+│ hardware_setup.jpg
+| hardware_demo.mp4
 ├── models/
 ├── Drowsiness_Detection.py
 ├── README.md
@@ -141,7 +138,7 @@ The hardware prototype developed for the project is shown below.
 - Arduino Shield
 
 <p align="center">
-  <img src="assets/hardware_setup.jpg" width="450" alt="Hardware Setup"/>
+  <img src="vigil_eye_hardware_setup." width="450" alt="Hardware Setup"/>
 </p>
 
 ---
@@ -152,7 +149,7 @@ A demonstration video of the working hardware prototype is included in this repo
 
 ▶️ **Hardware Demo**
 
-[Click here to watch the hardware demonstration](assets/hardware_demo.mp4)
+[Click here to watch the hardware demonstration](vigil_eye_hardware_setup.mp4)
 
 ---
 
