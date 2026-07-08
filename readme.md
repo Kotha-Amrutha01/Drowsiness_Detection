@@ -113,8 +113,8 @@ pip install imutils
 
 ```
 Vigil-Eye/
-│ hardware_setup.jpg
-| hardware_demo.mp4
+├── hardware_setup.jpg
+├── hardware_demo.mp4
 ├── models/
 ├── Drowsiness_Detection.py
 ├── README.md
