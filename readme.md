@@ -149,7 +149,7 @@ A demonstration video of the working hardware prototype is included in this repo
 
 ▶️ **Hardware Demo**
 
-[Click here to watch the hardware demonstration](VigilEye_hardware_demo.mp4)
+[Click here to watch the hardware demonstration](./VigilEye_hardware_demo.mp4)
 
 ---
 
