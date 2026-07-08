@@ -138,7 +138,7 @@ The hardware prototype developed for the project is shown below.
 - Arduino Shield
 
 <p align="center">
-  <img src="vigil_eye_hardware_setup." width="450" alt="Hardware Setup"/>
+  <img src="vigil_eye_hardware_setup.jpeg" width="450" alt="Hardware Setup"/>
 </p>
 
 ---
